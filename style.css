@@ -1,0 +1,15 @@
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    
+}
+h1{
+    color: green;
+    text-align: center;
+}
+p{
+    color: brown;
+    text-align: center;
+}
